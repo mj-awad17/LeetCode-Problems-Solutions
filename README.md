@@ -1,2 +1,3 @@
 # Leet de`a codes
-Solution of leecode.
+Problems of [leetcode](https://leetcode.com/problems/).
+
