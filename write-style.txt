@@ -1,0 +1,8 @@
+heading-problem
+
+<h2><a href="https://leetcode.com/problems/-problem-link-">Problem Name</a></h2>
+
+image Easy-green, Medium-orange, Hard-red
+
+<img src='https://img.shields.io/badge/Difficulty-Easy-green' alt='Difficulty: Easy' />
+<hr>
