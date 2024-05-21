@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/find-the-integer-added-to-array-i/"></a></h2>
+<h2><a href="https://leetcode.com/problems/find-the-integer-added-to-array-i/">Find-the-Integer-Added-to-Array-i</a></h2>
 <img src='https://img.shields.io/badge/Difficulty-Easy-green' alt='Difficulty: Easy' />
 <hr>
 
