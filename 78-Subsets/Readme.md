@@ -2,7 +2,7 @@
 
 image Easy-green, Medium-orange, Hard-red
 
-<img src='https://img.shields.io/badge/Difficulty-Medium-green' alt='Difficulty: Medium' />
+<img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
 <hr>
 <p>
 Given an integer array <code>nums</code> of <strong>unique</strong> elements, return all possible subsets (the power set).
