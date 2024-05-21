@@ -43,8 +43,7 @@ Return the integer <code>x</code>.
     The integer added to each element of nums1 is 0.
 
 <p><strong>Constraints:</strong></p>
-<ul>
-<li><code>1 <= nums1.length == nums2.length <= 100</code></li>
+
+<ul><li><code>1 <= nums1.length == nums2.length <= 100</code></li>
 <li><code>0 <= nums1[i], nums2[i] <= 1000</code></li>
-<li>The test cases are generated in a way that there is an integer <code>x</code> such that <code>nums1<code> can become equal to <code>nums2<code> by adding <code>x</code> to each element of <code>nums1</code>.</li>
-</ul>
+<li>The test cases are generated in a way that there is an integer <code>x</code> such that <code>nums1</code> can become equal to <code>nums2</code> by adding <code>x</code> to each element of <code>nums1</code>.</li></ul>
