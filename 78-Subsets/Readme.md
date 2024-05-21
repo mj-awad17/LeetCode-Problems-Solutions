@@ -1,6 +1,5 @@
 <h2><a href="https://leetcode.com/problems/subsets">Subsets</a></h2>
 
-image Easy-green, Medium-orange, Hard-red
 
 <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
 <hr>
