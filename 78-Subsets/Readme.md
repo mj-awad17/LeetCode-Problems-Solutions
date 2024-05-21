@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/subsets">Problem Name</a></h2>
+<h2><a href="https://leetcode.com/problems/subsets">Subsets</a></h2>
 
 image Easy-green, Medium-orange, Hard-red
 
