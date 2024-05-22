@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/palindrome-partitioning">Palindrome-Partitioning</a></h2>
+<h1><a href="https://leetcode.com/problems/palindrome-partitioning">Palindrome-Partitioning</a></h1>
 <img src='https://img.shields.io/badge/Difficulty-Medium-orange' alt='Difficulty: Medium' />
 <hr>
 <p>Given a string <code>s</code>, partition <code>s</code> such that every <abbr title="A substring is a contiguous non-empty sequence of characters within a string.">substring</abbr> of the partition is a <abbr title="A palindrome is a string that reads the same forward and backward.">palindrome</abbr>.</p>
