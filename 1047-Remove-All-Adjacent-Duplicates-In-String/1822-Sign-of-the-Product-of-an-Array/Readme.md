@@ -1,4 +1,4 @@
-<h2><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">Sign of the Product of an Array</a></h2>
+<h2><a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">Sign of the Product of an Array</a></h2>
 <img src='https://img.shields.io/badge/Difficulty-Easy-green' alt='Difficulty: Easy'/>
 <hr>
 <p>
