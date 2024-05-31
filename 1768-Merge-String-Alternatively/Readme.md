@@ -1,4 +1,4 @@
-<h1><a href="https://leetcode.com/problems/palindrome-partitioning">Merge-String-Alternatively
+<h1><a href="https://leetcode.com/problems/merge-strings-alternately/">Merge-String-Alternatively
 </a></h1>
 <img src='https://img.shields.io/badge/Difficulty-Easy-green' alt='Difficulty: Easy' />
 <hr>
