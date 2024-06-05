@@ -2,6 +2,7 @@ import pandas as pd
 
 def modifySalaryColumn(employees: pd.DataFrame) -> pd.DataFrame:
     """ Update() function used to update dataframe value"""
-    modify = employees["salary"]*2
-    employees.update(modify)
+    # modify = employees["salary"]*2
+    employees['salary'] = employees['salary'] * 2
+    # employees.update(modify)
     return employees
