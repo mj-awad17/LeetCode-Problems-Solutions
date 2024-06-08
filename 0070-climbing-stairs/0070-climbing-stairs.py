@@ -19,21 +19,21 @@ class Solution:
 
 
         # Fibonacci Series (Optimal)
-        if n <= 2:
-            return n
-        a, b = 1, 2
-        for i in range(3, n + 1):
-            a, b = b, a + b
-        return b
+        # if n <= 2:
+        #     return n
+        # a, b = 1, 2
+        # for i in range(3, n + 1):
+        #     a, b = b, a + b
+        # return b
 
         # Memoization (Top-down Dynamic Programming):
-    #     memo = {}
-    #     return self.helper(n, memo)
+        memo = {}
+        return self.helper(n, memo)
 
-    # def helper(self, n: int, memo: dict) -> int:
-    #     if n <= 2:
-    #         return n
-    #     if n in memo:
-    #         return memo[n]
-    #     memo[n] = self.helper(n - 1, memo) + self.helper(n - 2, memo)
-    #     return memo[n]
+    def helper(self, n: int, memo: dict) -> int:
+        if n <= 2:
+            return n
+        if n in memo:
+            return memo[n]
+        memo[n] = self.helper(n - 1, memo) + self.helper(n - 2, memo)
+        return memo[n]
