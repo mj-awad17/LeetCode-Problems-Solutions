@@ -4,6 +4,7 @@ class Solution:
         # if n <= 2:
         #     return n
         # return self.climbStairs(n - 1) + self.climbStairs(n - 2)
+        # there is an issue with this code that time complexity is high so 'time limited exceed' error occur
 
 
         # Tabulation (Bottom-up Dynamic Programming):
