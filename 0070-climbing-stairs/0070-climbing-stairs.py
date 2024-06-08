@@ -8,23 +8,23 @@ class Solution:
 
 
         # Tabulation (Bottom-up Dynamic Programming):
-        if n <= 2:
-            return n
-        dp = [0] * (n + 1)
-        dp[1] = 1
-        dp[2] = 2
-        for i in range(3, n + 1):
-            dp[i] = dp[i - 1] + dp[i - 2]
-        return dp[n]
+        # if n <= 2:
+        #     return n
+        # dp = [0] * (n + 1)
+        # dp[1] = 1
+        # dp[2] = 2
+        # for i in range(3, n + 1):
+        #     dp[i] = dp[i - 1] + dp[i - 2]
+        # return dp[n]
 
 
         # Fibonacci Series (Optimal)
-        # if n <= 2:
-        #     return n
-        # a, b = 1, 2
-        # for i in range(3, n + 1):
-        #     a, b = b, a + b
-        # return b
+        if n <= 2:
+            return n
+        a, b = 1, 2
+        for i in range(3, n + 1):
+            a, b = b, a + b
+        return b
 
         # Memoization (Top-down Dynamic Programming):
     #     memo = {}
