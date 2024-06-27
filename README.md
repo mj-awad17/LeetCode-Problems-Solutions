@@ -7,3 +7,11 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0077-combinations](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0077-combinations) |
+# Array
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1833-find-the-highest-altitude) |
+# Prefix Sum
+|  |
+| ------- |
+| [1833-find-the-highest-altitude](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1833-find-the-highest-altitude) |
