@@ -15,3 +15,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [1833-find-the-highest-altitude](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1833-find-the-highest-altitude) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1916-find-center-of-star-graph) |
