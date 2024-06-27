@@ -19,3 +19,11 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1916-find-center-of-star-graph) |
+# Hash Table
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0782-jewels-and-stones) |
+# String
+|  |
+| ------- |
+| [0782-jewels-and-stones](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0782-jewels-and-stones) |
