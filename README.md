@@ -42,4 +42,17 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
+| [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
+## Greedy
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
+## Graph
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
 <!---LeetCode Topics End-->
