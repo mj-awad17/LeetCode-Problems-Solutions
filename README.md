@@ -32,11 +32,13 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [1580-shuffle-the-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1580-shuffle-the-array) |
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 ## Sorting
 |  |
