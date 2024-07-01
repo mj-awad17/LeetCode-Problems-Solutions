@@ -88,4 +88,12 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0374-guess-number-higher-or-lower) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
