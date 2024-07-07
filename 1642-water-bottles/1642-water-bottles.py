@@ -1,5 +1,6 @@
 class Solution:
     def numWaterBottles(self, numBottles: int, numExchange: int) -> int:
+        # Approach - 1
         consumed = 0    # count the drinked bottles
         while(numBottles >= numExchange):
             # consumed bottle exchange with new filled bottle
