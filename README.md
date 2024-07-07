@@ -74,6 +74,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Math
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1642-water-bottles) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Stack
 |  |
@@ -82,6 +83,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1642-water-bottles) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
 ## Two Pointers
 |  |
