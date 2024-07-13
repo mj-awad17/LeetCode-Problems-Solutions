@@ -76,6 +76,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Math
@@ -87,6 +88,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
@@ -98,6 +100,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Two Pointers
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
@@ -126,6 +129,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0021-merge-two-sorted-lists) |
+| [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
