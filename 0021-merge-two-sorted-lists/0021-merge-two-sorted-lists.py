@@ -30,7 +30,7 @@ class Solution:
 
             if list1:
                 tail.next = list1
-            elif list2:
+            else:
                 tail.next = list2
 
 
