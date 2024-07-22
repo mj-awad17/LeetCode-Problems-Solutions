@@ -82,6 +82,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Math
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [1642-water-bottles](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -117,6 +118,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0005-longest-palindromic-substring) |
+| [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 ## Binary Search
 |  |
@@ -142,4 +144,8 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
