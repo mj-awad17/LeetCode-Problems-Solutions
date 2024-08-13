@@ -34,6 +34,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
+| [0040-combination-sum-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0040-combination-sum-ii) |
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
@@ -167,4 +168,8 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
+## Backtracking
+|  |
+| ------- |
+| [0040-combination-sum-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0040-combination-sum-ii) |
 <!---LeetCode Topics End-->
