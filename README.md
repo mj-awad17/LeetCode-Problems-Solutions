@@ -35,6 +35,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0040-combination-sum-ii) |
+| [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
