@@ -33,6 +33,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
@@ -116,6 +117,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0005-longest-palindromic-substring) |
+| [0027-remove-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0027-remove-element) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
