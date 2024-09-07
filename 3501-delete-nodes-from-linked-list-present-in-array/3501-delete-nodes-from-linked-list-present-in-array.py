@@ -5,7 +5,7 @@
 #         self.next = next
 class Solution:
     def modifiedList(self, nums: List[int], head: Optional[ListNode]) -> Optional[ListNode]:
-        # storing all nums in set()
+        """# storing all nums in set()
         num_set = set(nums)
 
         # initlize head and new dummy node for handle edge case
@@ -25,4 +25,14 @@ class Solution:
             # move to next node in the list
             current = current.next
         # return new head (which is dummy.next)
-        return dummy.next
+        return dummy.next"""
+        num_set = set(nums)
+        while head and head.val in num_set:
+            head = head.next
+        current = head
+        while current and current.next:
+            if current.next.val in num_set:
+                current.next = current.next.next
+            else:
+                current = current.next
+        return head
