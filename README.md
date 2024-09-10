@@ -58,6 +58,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
@@ -98,6 +99,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
@@ -131,6 +133,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0005-longest-palindromic-substring) |
 | [0006-zigzag-conversion](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0006-zigzag-conversion) |
+| [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0014-longest-common-prefix) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
