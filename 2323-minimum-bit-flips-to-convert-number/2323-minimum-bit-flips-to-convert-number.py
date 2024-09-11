@@ -9,9 +9,16 @@ class Solution:
             goal  =  goal >> 1
         return res"""
         # method 2 - XOR
-        res = 0
+        """res = 0
         n = start ^ goal
         while n:
             res += n & 1
             n = n >> 1
+        return res"""
+        # method 3 - Brain Keringhar'a Algorithm
+        res = 0
+        n = start ^ goal
+        while n:
+            n = n & (n-1)
+            res += 1
         return res
