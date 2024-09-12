@@ -49,6 +49,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1293-three-consecutive-odds](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1293-three-consecutive-odds) |
 | [1580-shuffle-the-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
@@ -63,6 +64,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -138,6 +140,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Dynamic Programming
 |  |
@@ -179,6 +182,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
 ## Matrix
 |  |
@@ -219,5 +223,6 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2323-minimum-bit-flips-to-convert-number) |
 <!---LeetCode Topics End-->
