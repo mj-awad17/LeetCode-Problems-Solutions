@@ -47,6 +47,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1293-three-consecutive-odds](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1293-three-consecutive-odds) |
+| [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1580-shuffle-the-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1580-shuffle-the-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -223,6 +224,11 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Bit Manipulation
 |  |
 | ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2323-minimum-bit-flips-to-convert-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 <!---LeetCode Topics End-->
