@@ -106,6 +106,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
+| [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1642-water-bottles](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -168,6 +169,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0021-merge-two-sorted-lists) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
+| [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
@@ -229,6 +231,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2323-minimum-bit-flips-to-convert-number) |
