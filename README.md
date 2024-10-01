@@ -37,6 +37,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
@@ -63,6 +64,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
@@ -219,12 +221,14 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -247,4 +251,8 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 <!---LeetCode Topics End-->
