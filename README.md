@@ -47,6 +47,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
+| [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1293-three-consecutive-odds) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1580-shuffle-the-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1580-shuffle-the-array) |
@@ -69,6 +70,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
+| [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -79,6 +81,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
+| [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
 ## Greedy
