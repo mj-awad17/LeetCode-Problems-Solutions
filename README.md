@@ -66,6 +66,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
@@ -103,6 +104,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0021-merge-two-sorted-lists) |
+| [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -136,6 +138,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0005-longest-palindromic-substring) |
 | [0027-remove-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0027-remove-element) |
+| [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
