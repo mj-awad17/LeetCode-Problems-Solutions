@@ -106,6 +106,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0021-merge-two-sorted-lists](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
+| [0328-odd-even-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0328-odd-even-linked-list) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
