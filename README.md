@@ -142,6 +142,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
@@ -153,6 +154,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0006-zigzag-conversion](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0014-longest-common-prefix) |
+| [0345-reverse-vowels-of-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
