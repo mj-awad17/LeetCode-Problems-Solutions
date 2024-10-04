@@ -1,13 +1,15 @@
 class Solution(object):
     def canPlaceFlowers(self, flowerbed, n):
         count = 0
-        for i in range(len(flowerbed)):
+        size = len(flowerbed)
+        i = 0
+        while i < size:
             if flowerbed[i] == 0:
-                prev = flowerbed[i-1] if i > 0 else 0
-                next = flowerbed[i+1] if i < len(flowerbed)-1 else 0
-                if prev == 0 and next == 0:
-                    flowerbed[i] = 1
+                if i == size - 1 or flowerbed[i+1] == 0:
                     count += 1
-            if count >= n:
-                return True
+                    i += 2
+                else:
+                    i += 1
+            else:
+                i += 2
         return count >= n
