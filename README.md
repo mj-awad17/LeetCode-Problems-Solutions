@@ -41,6 +41,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0624-maximum-distance-in-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0624-maximum-distance-in-arrays) |
@@ -142,6 +143,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
