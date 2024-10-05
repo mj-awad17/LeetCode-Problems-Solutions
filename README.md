@@ -41,6 +41,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0283-move-zeroes) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
@@ -265,6 +266,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 ## Brainteaser
 |  |
