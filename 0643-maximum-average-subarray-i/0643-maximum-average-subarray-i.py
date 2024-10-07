@@ -1,10 +1,16 @@
-class Solution:
-    def findMaxAverage(self, nums: List[int], k: int) -> float:
-        windowSum = sum(nums[:k]) # O(k)
-        maxSum = windowSum 
-        for i in range(len(nums)-k): # O(n-k)
-            windowSum = windowSum + nums[i+k] - nums[i] # O(n-k)
-            maxSum = max(maxSum, windowSum) # O(n-k)
-        return maxSum/k 
-        # time O(n-k)
-        # space O(1)
+class Solution(object):
+    def findMaxAverage(self, nums, k):
+        """
+        :type nums: List[int]
+        :type k: int
+        :rtype: float
+        """
+        # calculate the sum of the first 'k' elements
+        maxSum = windowSum = sum(nums[0:k])
+        for i in range(len(nums)-k): 
+            # Update the window
+            # removing the first element of the previous window
+            windowSum = windowSum + nums[i+k] - nums[i]
+            maxSum = max(maxSum, windowSum)
+            
+        return maxSum/float(k)
