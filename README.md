@@ -43,6 +43,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0605-can-place-flowers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0605-can-place-flowers) |
@@ -92,6 +93,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Greedy
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0624-maximum-distance-in-arrays) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
