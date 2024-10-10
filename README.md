@@ -61,6 +61,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1803-average-waiting-time](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1803-average-waiting-time) |
+| [1833-find-the-highest-altitude](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1833-find-the-highest-altitude) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -275,6 +276,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0238-product-of-array-except-self) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
+| [1833-find-the-highest-altitude](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1833-find-the-highest-altitude) |
 ## Brainteaser
 |  |
 | ------- |
