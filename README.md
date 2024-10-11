@@ -55,6 +55,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1293-three-consecutive-odds) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1580-shuffle-the-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1580-shuffle-the-array) |
@@ -80,6 +81,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
+| [1392-find-the-difference-of-two-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
