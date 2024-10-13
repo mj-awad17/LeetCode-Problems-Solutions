@@ -128,6 +128,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
+| [0029-divide-two-integers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0029-divide-two-integers) |
 | [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
@@ -273,6 +274,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
