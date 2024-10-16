@@ -52,6 +52,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0643-maximum-average-subarray-i](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0643-maximum-average-subarray-i) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
+| [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
 | [1231-replace-elements-with-greatest-element-on-right-side](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1231-replace-elements-with-greatest-element-on-right-side) |
 | [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1293-three-consecutive-odds) |
@@ -212,6 +213,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0374-guess-number-higher-or-lower) |
+| [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -297,6 +299,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0238-product-of-array-except-self) |
+| [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1833-find-the-highest-altitude](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1833-find-the-highest-altitude) |
 ## Brainteaser
@@ -311,6 +314,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0643-maximum-average-subarray-i) |
+| [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 <!---LeetCode Topics End-->
