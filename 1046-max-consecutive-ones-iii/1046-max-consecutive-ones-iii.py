@@ -6,7 +6,6 @@ class Solution:
         nums_zeros = 0
         n = len(nums)
         l = 0
-        
         for r in range(n):
             if nums[r] == 0:
                 nums_zeros += 1
