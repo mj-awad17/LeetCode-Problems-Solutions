@@ -150,6 +150,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
+| [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
@@ -189,6 +190,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0151-reverse-words-in-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
@@ -225,6 +227,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
+| [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Queue
 |  |
