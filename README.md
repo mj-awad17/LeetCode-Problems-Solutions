@@ -212,6 +212,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
+| [0338-counting-bits](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
@@ -301,6 +302,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0029-divide-two-integers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
+| [0338-counting-bits](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0338-counting-bits) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2323-minimum-bit-flips-to-convert-number) |
