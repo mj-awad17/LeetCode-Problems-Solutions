@@ -285,6 +285,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
@@ -293,12 +294,14 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0783-search-in-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0450-delete-node-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0783-search-in-a-binary-search-tree) |
 ## Bit Manipulation
 |  |
