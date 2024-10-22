@@ -158,6 +158,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
@@ -166,6 +167,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1803-average-waiting-time](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
+| [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -205,6 +207,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1894-merge-strings-alternately](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
 ## Dynamic Programming
 |  |
 | ------- |
