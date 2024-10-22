@@ -52,6 +52,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0605-can-place-flowers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0643-maximum-average-subarray-i) |
+| [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
@@ -157,12 +158,14 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
+| [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
 | [1642-water-bottles](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1642-water-bottles) |
 | [1803-average-waiting-time](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
