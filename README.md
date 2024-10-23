@@ -74,6 +74,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
@@ -94,6 +95,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -170,6 +172,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1803-average-waiting-time](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
+| [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
 ## Two Pointers
 |  |
@@ -266,6 +269,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
+| [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 ## Backtracking
 |  |
 | ------- |
