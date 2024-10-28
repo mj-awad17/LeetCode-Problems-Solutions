@@ -53,6 +53,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0624-maximum-distance-in-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
+| [0810-valid-tic-tac-toe-state](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0810-valid-tic-tac-toe-state) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
@@ -267,6 +268,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Matrix
 |  |
 | ------- |
+| [0810-valid-tic-tac-toe-state](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0810-valid-tic-tac-toe-state) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
