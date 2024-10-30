@@ -12,5 +12,4 @@ class Solution:
             else:
                 # It's an opening bracket
                 stack.append(char)
-
         return not stack  # Return True if all opening brackets are matched
