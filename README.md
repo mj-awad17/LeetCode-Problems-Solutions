@@ -159,6 +159,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
@@ -202,6 +203,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0006-zigzag-conversion](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0006-zigzag-conversion) |
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
