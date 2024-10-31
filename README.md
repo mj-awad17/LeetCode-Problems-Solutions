@@ -148,6 +148,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0013-roman-to-integer](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0013-roman-to-integer) |
 | [0029-divide-two-integers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0029-divide-two-integers) |
+| [0069-sqrtx](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0231-power-of-two](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0231-power-of-two) |
@@ -232,6 +233,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0374-guess-number-higher-or-lower) |
