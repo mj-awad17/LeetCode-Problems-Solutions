@@ -212,6 +212,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0443-string-compression](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
+| [0812-rotate-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -356,4 +357,8 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
