@@ -255,6 +255,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Queue
 |  |
 | ------- |
+| [0969-number-of-recent-calls](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Trie
 |  |
@@ -361,4 +362,12 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0812-rotate-string) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
