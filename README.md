@@ -75,6 +75,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -96,6 +97,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
@@ -271,6 +273,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Matrix
 |  |
 | ------- |
@@ -335,6 +338,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1441-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1441-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2323-minimum-bit-flips-to-convert-number) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 ## Prefix Sum
 |  |
