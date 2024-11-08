@@ -121,6 +121,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0605-can-place-flowers](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0605-can-place-flowers) |
 | [0624-maximum-distance-in-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0624-maximum-distance-in-arrays) |
+| [0649-dota2-senate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
@@ -213,6 +214,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [0443-string-compression](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0443-string-compression) |
 | [0500-keyboard-row](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0500-keyboard-row) |
+| [0649-dota2-senate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0649-dota2-senate) |
 | [0680-valid-palindrome-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0680-valid-palindrome-ii) |
 | [0812-rotate-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0812-rotate-string) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -257,6 +259,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Queue
 |  |
 | ------- |
+| [0649-dota2-senate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0649-dota2-senate) |
 | [0969-number-of-recent-calls](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0969-number-of-recent-calls) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Trie
