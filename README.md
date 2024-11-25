@@ -99,6 +99,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Sorting
 |  |
@@ -223,6 +224,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1894-merge-strings-alternately](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1894-merge-strings-alternately) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
+| [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Dynamic Programming
 |  |
 | ------- |
