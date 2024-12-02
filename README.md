@@ -293,6 +293,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
@@ -301,6 +302,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
@@ -312,6 +314,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
@@ -323,6 +326,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0096-unique-binary-search-trees) |
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
