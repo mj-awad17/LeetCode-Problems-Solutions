@@ -301,6 +301,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
+| [0904-leaf-similar-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -324,6 +325,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
@@ -336,6 +338,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0783-search-in-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0904-leaf-similar-trees) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
