@@ -204,6 +204,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
 | ------- |
@@ -228,6 +229,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2232-adding-spaces-to-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2232-adding-spaces-to-a-string) |
 | [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
+| [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 | [3353-existence-of-a-substring-in-a-string-and-its-reverse](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3353-existence-of-a-substring-in-a-string-and-its-reverse) |
 ## Dynamic Programming
 |  |
