@@ -75,6 +75,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2058-concatenation-of-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2058-concatenation-of-array) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
@@ -113,6 +114,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1798-max-number-of-k-sum-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1798-max-number-of-k-sum-pairs) |
+| [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
 ## Greedy
 |  |
@@ -134,6 +136,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
 ## Linked List
 |  |
@@ -242,6 +245,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0392-is-subsequence](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0435-non-overlapping-intervals) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 ## Binary Search
 |  |
 | ------- |
@@ -251,6 +255,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
+| [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 ## Interactive
 |  |
 | ------- |
