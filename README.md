@@ -53,6 +53,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0624-maximum-distance-in-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0624-maximum-distance-in-arrays) |
 | [0643-maximum-average-subarray-i](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0643-maximum-average-subarray-i) |
 | [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0739-daily-temperatures) |
 | [0810-valid-tic-tac-toe-state](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0810-valid-tic-tac-toe-state) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
@@ -172,6 +173,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0394-decode-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0735-asteroid-collision) |
+| [0739-daily-temperatures](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0739-daily-temperatures) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
 | [2470-removing-stars-from-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2470-removing-stars-from-a-string) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
@@ -407,4 +409,8 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0969-number-of-recent-calls) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->
