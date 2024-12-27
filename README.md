@@ -79,6 +79,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2232-adding-spaces-to-a-string) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -117,6 +118,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1798-max-number-of-k-sum-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1798-max-number-of-k-sum-pairs) |
 | [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Greedy
 |  |
 | ------- |
@@ -209,6 +211,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2232-adding-spaces-to-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2232-adding-spaces-to-a-string) |
 | [2236-maximum-twin-sum-of-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2236-maximum-twin-sum-of-a-linked-list) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [3018-make-string-a-subsequence-using-cyclic-increments](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3018-make-string-a-subsequence-using-cyclic-increments) |
 ## String
 |  |
@@ -258,6 +261,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0374-guess-number-higher-or-lower](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0374-guess-number-higher-or-lower) |
 | [1046-max-consecutive-ones-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1046-max-consecutive-ones-iii) |
 | [2164-two-best-non-overlapping-events](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2164-two-best-non-overlapping-events) |
+| [2392-successful-pairs-of-spells-and-potions](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2392-successful-pairs-of-spells-and-potions) |
 ## Interactive
 |  |
 | ------- |
