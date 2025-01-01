@@ -135,6 +135,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Graph
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0871-keys-and-rooms) |
 | [2379-maximum-total-importance-of-roads](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2379-maximum-total-importance-of-roads) |
 ## Heap (Priority Queue)
@@ -316,6 +317,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0437-path-sum-iii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0437-path-sum-iii) |
+| [0547-number-of-provinces](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0871-keys-and-rooms) |
 | [0904-leaf-similar-trees](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0904-leaf-similar-trees) |
@@ -326,12 +328,14 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0102-binary-tree-level-order-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0199-binary-tree-right-side-view) |
+| [0547-number-of-provinces](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 | [0871-keys-and-rooms](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0871-keys-and-rooms) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 ## Union Find
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0547-number-of-provinces) |
 | [0854-making-a-large-island](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0854-making-a-large-island) |
 ## Tree
 |  |
