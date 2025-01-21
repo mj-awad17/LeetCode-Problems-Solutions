@@ -1,12 +1,14 @@
 class Solution:
     def getConcatenation(self, nums: List[int]) -> List[int]:
-        # create two empty arrays
-        arr1 = []
-        arr2 = []
-        # iterate all element and append to both arrays
-        for i in range(len(nums)):
+        # intialize two empty arrays
+        arr1, arr2 = [], []
+        
+        lenght = len(nums)
+        # iterate on nums and append all the elements to both arrays
+        for i in range(lenght):
             arr1.append(nums[i])
             arr2.append(nums[i])
-        # concatenation
+        # concatenate the both arrays
         ans = arr1 + arr2
+        
         return ans
