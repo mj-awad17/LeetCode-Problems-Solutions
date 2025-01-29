@@ -38,6 +38,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
 | [0040-combination-sum-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0040-combination-sum-ii) |
 | [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0152-maximum-product-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0152-maximum-product-subarray) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -109,6 +110,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0435-non-overlapping-intervals](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0435-non-overlapping-intervals) |
@@ -198,6 +200,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0005-longest-palindromic-substring](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0151-reverse-words-in-a-string) |
