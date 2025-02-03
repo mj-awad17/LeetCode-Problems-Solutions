@@ -83,6 +83,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [2392-successful-pairs-of-spells-and-potions](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2392-successful-pairs-of-spells-and-potions) |
 | [2428-equal-row-and-column-pairs](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2428-equal-row-and-column-pairs) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Hash Table
 |  |
