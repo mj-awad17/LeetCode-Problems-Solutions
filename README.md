@@ -33,6 +33,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
@@ -262,6 +263,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -406,6 +408,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Sliding Window
 |  |
