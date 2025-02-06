@@ -64,6 +64,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1293-three-consecutive-odds) |
 | [1319-unique-number-of-occurrences](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1435-xor-queries-of-a-subarray](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1435-xor-queries-of-a-subarray) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1528-kids-with-the-greatest-number-of-candies) |
@@ -99,6 +100,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [0870-magic-squares-in-grid](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0870-magic-squares-in-grid) |
 | [1256-rank-transform-of-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1256-rank-transform-of-an-array) |
 | [1319-unique-number-of-occurrences](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1319-unique-number-of-occurrences) |
+| [1364-tuple-with-same-product](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -302,6 +304,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Counting
 |  |
 | ------- |
+| [1364-tuple-with-same-product](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/1364-tuple-with-same-product) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2163-kth-distinct-string-in-an-array) |
