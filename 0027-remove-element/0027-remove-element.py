@@ -1,14 +1,6 @@
-class Solution:
-    def removeElement(self, nums: List[int], val: int) -> int:
-        l, count = 0, 0
-        ''
-        for r in range(len(nums)):
-            if nums[r] != val:
-                nums[l] = nums[r]
-                count += 1
-                l += 1
-        return count
-        """left = 0
+class Solution(object):
+    def removeElement(self, nums, val):
+        left = 0
         right = len(nums) - 1
         while left <= right:
             if nums[left] == val:
@@ -16,4 +8,4 @@ class Solution:
                 right -= 1
             else:
                 left += 1
-        return left"""
+        return left
