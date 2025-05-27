@@ -152,6 +152,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0021-merge-two-sorted-lists) |
 | [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0143-reorder-list) |
@@ -204,6 +205,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0027-remove-element](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/0088-merge-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/0142-linked-list-cycle-ii) |
