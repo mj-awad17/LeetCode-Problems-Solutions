@@ -176,6 +176,7 @@ Embark on a journey of growth and mastery with this comprehensive collection of 
 | [1642-water-bottles](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2871-double-a-number-represented-as-a-linked-list](https://github.com/mj-awad17/LeetCode-Problems-Solutioins/tree/master/2871-double-a-number-represented-as-a-linked-list) |
+| [3172-divisible-and-non-divisible-sums-difference](https://github.com/mj-awad17/LeetCode-Problems-Solutions/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 ## Stack
 |  |
 | ------- |
